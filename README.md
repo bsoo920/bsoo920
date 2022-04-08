@@ -7,7 +7,7 @@ My name is **Bright Soo**.  And below are...
 
     - [<img src='https://i.imgur.com/0FtWBo6.gif'/>](https://github.com/bsoo920/codepath)
 
-1. **My schoolwork/coursework** repos (below) can be shared with prospective employers upon request, but cannot be made available to the general public due to honor code agreements.
+1. **My schoolwork/coursework repos** (below) can be shared with prospective employers upon request, but cannot be made available to the general public due to honor code agreements.
     - ColumbiaX by Columbia University
       - Artificial Intelligence,  ([certificate](https://courses.edx.org/certificates/a78c5f8930a4499396696eaca11e9eee))
       - Analytics in Python, Columbia University ([certificate](https://courses.edx.org/certificates/a94dc3071a1b401fa1a87198c0a25224))
