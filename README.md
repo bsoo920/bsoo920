@@ -1,11 +1,14 @@
 My name is **Bright Soo**.  And below are...
 
-<table id="verticalalign">
-    <caption>vertical-align</caption>
+<table>
     <tbody>
         <tr>
-            <td align="left" valign="top">[**playgrounds-battleship**](https://github.com/bsoo920/playgrounds-battleship) is my solution to a Swift Playground challenge that outperforms Apple's best pre-loaded solution by 11% while having 28% fewer lines of code.</td>
-            <td align="left" valign="top">[<img src='https://i.imgur.com/AoDYf7B.gif' title='44-turn game' width='' alt='gif of a 44-turn game' />](https://github.com/bsoo920/playgrounds-battleship)</td>
+            <td align="left" valign="top"><a href="https://github.com/bsoo920/playgrounds-battleship"><b>playgrounds-battleship</b></a> is my solution to a Swift Playground challenge that outperforms Apple's best pre-loaded solution by 11% while having 28% fewer lines of code.</td>
+            <td align="left" valign="top"><a href="https://github.com/bsoo920/playgrounds-battleship"><img src='https://i.imgur.com/AoDYf7B.gif' title='44-turn game' alt='gif of a 44-turn game'></a></td>
+        </tr>
+        <tr>
+            <td align="left" valign="top"><a href="https://github.com/bsoo920/codepath"><img src='https://i.imgur.com/0FtWBo6.gif'></a></td>
+            <td align="left" valign="top"><b><a href="https://github.com/bsoo920/codepath">codepath</a></b> was my first non-trivial effort to do some iOS programming and was my answer to a <a href="https://codepath.org/">CodePath</a> challenge.  The feature I'm most proud of is the set of sliders that automatically enforce non-decreasing order, and that the number of sliders can be easily supported with <a href="https://github.com/bsoo920/codepath/blob/436610feaf3d2dd2745f00ed45d390bb7ece45d3/tippy/SettingsViewController.swift#L162">minimal code change</a></td>
         </tr>
     </tbody>
 </table>
