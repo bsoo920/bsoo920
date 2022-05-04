@@ -1,5 +1,5 @@
 My name is **Bright Soo**.  And below are...
-## My Noteworthy Repos 😀 ##
+## my Noteworthy Repos 😀 ##
 1. [**playgrounds-battleship**](https://github.com/bsoo920/playgrounds-battleship) is my solution to a Swift Playground challenge that outperforms Apple's best pre-loaded solution by 11% while having 28% fewer lines of code.
     - [<img src='https://i.imgur.com/AoDYf7B.gif' title='44-turn game' width='' alt='gif of a 44-turn game' />](https://github.com/bsoo920/playgrounds-battleship)
 
