@@ -12,8 +12,8 @@ My name is **Bright Soo**.  And below are
 
 1. **My schoolwork/coursework repos** (below) can be shared with prospective employers upon request, but cannot be made available to the general public due to honor code agreements.
     - ColumbiaX by Columbia University
-      - Artificial Intelligence,  ([certificate](https://courses.edx.org/certificates/a78c5f8930a4499396696eaca11e9eee))
-      - Analytics in Python, Columbia University ([certificate](https://courses.edx.org/certificates/a94dc3071a1b401fa1a87198c0a25224))
+      - Artificial Intelligence  ([certificate](https://courses.edx.org/certificates/a78c5f8930a4499396696eaca11e9eee))
+      - Analytics in Python  ([certificate](https://courses.edx.org/certificates/a94dc3071a1b401fa1a87198c0a25224))
     - Georgia Institute of Technology (Master of Science in Computer Science, Expected 2024)
       - Robotics AI Techniques, CS7638
       - Data & Visual Analytics, CSE6242 (homework is private, but project is public and is listed above)
